@@ -10,7 +10,7 @@ import warnings
 warnings.simplefilter('ignore')
 
 # 設定をJSONファイルから読み込み
-with open('config/config.json', 'r') as file:
+with open('config/.crypto_config.json', 'r') as file:
     config = json.load(file)
 
 # 設定
