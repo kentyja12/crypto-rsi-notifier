@@ -1,0 +1,9 @@
+{
+    "email_address": "",
+    "email_password": "",
+    "to_email_address": "",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "stock_ticker": "8301.T",
+    "rsi_threshold": 100
+}

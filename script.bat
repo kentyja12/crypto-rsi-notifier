@@ -1,4 +1,5 @@
 @echo off
 call .env\Scripts\activate
-py scripts\main.py
+py scripts\crypto.py
+py scripts\stock.py
 deactivate
